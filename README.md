@@ -8,7 +8,7 @@ I am a Frontend Developer , I love exploring different tech stacks and making pr
 
 * 🌍  I'm based in Himachal Pradesh , INDIA
 * ✉️  You can contact me at [kshitijpandey25@gmail.com](mailto:kshitijpandey25@gmail.com)
-* 🚀  I'm currently working on [CUHP APP](http://https://github.com/pandey22/CUHP-APP.git)
+* 🚀  Building [CUHP APP](https://github.com/pandey22/CUHP-APP-v1.0)
 * 🧠  I'm learning React and NextJS
 * 🤝  I'm open to collaborating on projects
 
