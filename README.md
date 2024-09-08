@@ -11,7 +11,7 @@ I am a Frontend Developer , I love exploring different tech stacks and making pr
 * 🚀  Building [CUHP APP](https://github.com/pandey22/CUHP-APP-v1.0)
 * 🧠  I'm learning React and NextJS
 * 🤝  I'm open to collaborating on projects
-* 🌐  Personal Portfolio [Kshitij Pandey] (https://kshitij-pandey-portfolio.vercel.app/)
+* 🌐  Personal Portfolio [Kshitij Pandey](https://kshitij-pandey-portfolio.vercel.app/)
 ### Skills
 
 
