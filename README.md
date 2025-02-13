@@ -6,12 +6,12 @@ Full Stack Developer
 
 I am a Frontend Developer , I love exploring different tech stacks and making projects by using them
 
-* 🌍  I'm based in Himachal Pradesh , INDIA
+* 🌍  Jharkhand, India
 * ✉️  You can contact me at [kshitijpandey25@gmail.com](mailto:kshitijpandey25@gmail.com)
 * 🚀  Building [CUHP APP](https://github.com/pandey22/CUHP-APP-v1.0)
 * 🧠  I'm learning React and NextJS
 * 🤝  I'm open to collaborating on projects
-* 🌐  Personal Portfolio [Kshitij Pandey](https://kshitij-pandey-portfolio.vercel.app/)
+* 🌐  Personal Portfolio [Kshitij Pandey](https://portfolio-website-kshitij-pandeys-projects.vercel.app/)
 ### Skills
 
 
