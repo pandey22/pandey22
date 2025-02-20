@@ -8,7 +8,7 @@ I am a Frontend Developer , I love exploring different tech stacks and making pr
 
 * 🌍  Jharkhand, India
 * ✉️  You can contact me at [kshitijpandey25@gmail.com](mailto:kshitijpandey25@gmail.com)
-* 🚀  Building [CUHP APP](https://github.com/pandey22/CUHP-APP-v1.0)
+* 🚀  Building [J.A.W.S](https://jaws-website.vercel.app/)
 * 🧠  I'm learning React and NextJS
 * 🤝  I'm open to collaborating on projects
 * 🌐  Personal Portfolio [Kshitij Pandey](https://portfolio-website-kshitij-pandeys-projects.vercel.app/)
