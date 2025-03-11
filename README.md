@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I am a Frontend Developer , I love exploring different tech stacks and making projects by using them
+I am a Full Stack Developer , I love exploring different tech stacks and making projects by using them
 
 * 🌍  Jharkhand, India
 * ✉️  You can contact me at [kshitijpandey25@gmail.com](mailto:kshitijpandey25@gmail.com)
