@@ -8,7 +8,7 @@ I am a Full Stack Developer , I love exploring different tech stacks and making 
 
 * 🌍  Jharkhand, India
 * ✉️  You can contact me at [kshitijpandey25@gmail.com](mailto:kshitijpandey25@gmail.com)
-* 🚀  Building [J.A.W.S](https://jaws-website.vercel.app/)
+* 🚀  Building [STITCH](https://github.com/pandey22/Jersey-Store) and  [J.A.W.S](https://jaws-website.vercel.app/)
 * 🧠  I'm learning React and NextJS
 * 🤝  I'm open to collaborating on projects
 * 🌐  Personal Portfolio [Kshitij Pandey](https://portfolio-website-kshitij-pandeys-projects.vercel.app/)
@@ -31,5 +31,3 @@ I am a Full Stack Developer , I love exploring different tech stacks and making 
 <a href="http://www.github.com/pandey22"><img src="https://github-readme-stats.vercel.app/api?username=pandey22&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pandey22's GitHub stats" /></a>
 
 <a href="http://www.github.com/pandey22"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pandey22&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/pandey22" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandey22&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
